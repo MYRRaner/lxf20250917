@@ -1,0 +1,1 @@
+console.log('3-我是JS内嵌式引入-nihao');
